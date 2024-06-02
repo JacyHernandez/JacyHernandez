@@ -27,8 +27,7 @@
     </style>
 </head>
 <body>
-    <!-- ![image](https://github.com/JacyHernandez/JacyHernandez/assets/166174080/84d086a7-f6bc-4cda-94d0-74a97952d6bc)
- -->
+    <!-- Cybersecurity Animation -->
     <div class="animation-container">
         <img class="cybersecurity-img" src="cybersecurity.gif" alt="Cybersecurity Animation">
     </div>
