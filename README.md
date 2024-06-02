@@ -1,30 +1,45 @@
-<h1>Hi, I'm Jacy! <br/><a href="https://github.com/Code0304">Systems Engineer</a>, <a href="https://linkedin.com/in/-jacyh587//">Cybersecurity Professional</a>,
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Animation</title>
+    <style>
+        /* Animation Styles */
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.1);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+        /* Animation Applied to Image */
+        .cybersecurity-img {
+            width: 300px;
+            height: auto;
+            animation: pulse 2s infinite;
+        }
+    </style>
+</head>
+<body>
+    <!-- ![image](https://github.com/JacyHernandez/JacyHernandez/assets/166174080/84d086a7-f6bc-4cda-94d0-74a97952d6bc)
+ -->
+    <div class="animation-container">
+        <img class="cybersecurity-img" src="cybersecurity.gif" alt="Cybersecurity Animation">
+    </div>
 
-- <b> SIEM </b>
-  
-**-  <b>   Wazuh</b>**
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=YTzPW2oMvts&t=51s)
-- [A Day in the Life of a Cybersecurity Anayst](https://youtu.be/A1AECS933xs)
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JacyHernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/-manuel-santana
-
-<!--
-**JacyHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+    <!-- Contact Information -->
+    <div class="contact-info">
+        <p>Connect with me on LinkedIn:</p>
+        <a href="https://www.linkedin.com/in/jacyh587">LinkedIn Profile</a>
+    </div>
+</body>
+</html>
 
 - 🔭 I’m currently working on ...Bachelors degree in Cybersecurity and Information Assurance
 - 🌱 I’m currently learning ...MYSQL, Digital Forensics, Incident Response, Cryptography, GRC, 
