@@ -4,8 +4,26 @@
 
 <img src="https://github.com/user-attachments/assets/696eb9dd-4067-4a2e-914d-193618d0807c" alt="Cyber Defense SOC Analyst" style="width:40%; height:auto;">
 
-- 🔭 I’m currently working on ...Bachelors degree in Cybersecurity and Information Assurance
-- 🌱 I’m currently learning ...MYSQL, Digital Forensics, Incident Response, Cryptography, GRC, 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...Jacyhernandez@protonmail.com
--->
+## About Me:
+I'm currently pursuing my Bachelor's in Cybersecurity and Information Assurance from **Western Governors University**, committed to becoming a formidable force in digital defense. My journey is fueled by the belief that in cybersecurity, every second counts, and the strength of the defense relies on preparation, knowledge, and unwavering resolve.
+
+## Certifications:
+I hold the following credentials that showcase my dedication and expertise:
+- **CompTIA Security+**
+- **CompTIA Network+**
+- **CompTIA A+**
+- **SSCP (ISC2 Associate Member)**
+- **ITIL Foundation**
+
+## Current Role:
+I am a **Student and Community Junior SOC Analyst** at **Level Effect**, where I continue to hone my skills in threat detection, analysis, and response. Like the elite defenders of humanity, I work diligently to fortify the digital walls that keep data safe from the ever-evolving threats outside.
+
+---
+
+### Vision:
+As I advance in my career, I aim to embody the same strength, resilience, and strategic mindset that defines those who protect their domains at all costs. 
+
+---
+
+Don’t hesitate to connect with me at Jacyhernandez1226@gmail.com when you’re ready to push forward, face challenges head-on, or discuss the ever-changing battlefield of cybersecurity.
+
