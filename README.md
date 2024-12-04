@@ -25,5 +25,8 @@ As I advance in my career, I aim to embody the same strength, resilience, and st
 
 ---
 
-Don’t hesitate to connect with me at Jacyhernandez1226@gmail.com when you’re ready to push forward, face challenges head-on, or discuss the ever-changing battlefield of cybersecurity.
+## Connect with me:
+- Email: Jacyhernandez1226@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jacyh587/
+
 
