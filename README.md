@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/696eb9dd-4067-4a2e-914d-193618d0807c" alt="Cyber Defense SOC Analyst" style="width:40%; height:auto;">
 
-## Origin:
+## Briefing:
 I'm currently pursuing my Bachelor's in Cybersecurity and Information Assurance from **Western Governors University**, committed to becoming a formidable force in digital defense. My journey is fueled by the belief that in cybersecurity, every second counts, and the strength of the defense relies on preparation, knowledge, and unwavering resolve.
 
 ## Tactical Credentials:
