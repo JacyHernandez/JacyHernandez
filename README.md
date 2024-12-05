@@ -10,7 +10,9 @@ I'm currently pursuing my Bachelor's in Cybersecurity and Information Assurance 
 ## Tactical Credentials:
 I hold the following credentials that showcase my dedication and expertise, with accompanying projects that demonstrate practical experience relevant to each certification:
 - **CompTIA Security+**
-[Honeypot Project](https://github.com/JacyHernandez/Cyber-Fly-Trap-Project)
+[Honeypot Project](https://github.com/JacyHernandez/Cyber-Fly-Trap-Project) ⚔️ 
+[Vulnerability Management with Nessus Project](https://github.com/JacyHernandez/Nessus-Security-Implementation)
+
 - **CompTIA Network+**
 - **CompTIA A+**
 - **SSCP (ISC2 Associate Member)**
