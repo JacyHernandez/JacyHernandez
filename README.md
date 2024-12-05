@@ -8,8 +8,9 @@
 I'm currently pursuing my Bachelor's in Cybersecurity and Information Assurance from **Western Governors University**, committed to becoming a formidable force in digital defense. My journey is fueled by the belief that in cybersecurity, every second counts, and the strength of the defense relies on preparation, knowledge, and unwavering resolve.
 
 ## Tactical Credentials:
-I hold the following credentials that showcase my dedication and expertise:
+I hold the following credentials that showcase my dedication and expertise, with accompanying projects that demonstrate practical experience relevant to each certification:
 - **CompTIA Security+**
+[Honeypot Project](https://github.com/JacyHernandez/Cyber-Fly-Trap-Project)
 - **CompTIA Network+**
 - **CompTIA A+**
 - **SSCP (ISC2 Associate Member)**
