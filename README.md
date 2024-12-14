@@ -5,7 +5,7 @@
 <img src="https://github.com/user-attachments/assets/696eb9dd-4067-4a2e-914d-193618d0807c" alt="Cyber Defense SOC Analyst" style="width:40%; height:auto;">
 
 ## About Me:
-With a decade of diverse experience across IT help desk, healthcare investigations & patient care, and the supply chain industry, I have obtained a proven track record to solving company problems while providing excellent customer service and leveraging strong soft skills. Currently, I am pursuing a Bachelor's in Cybersecurity from **Western Governors University** and training as a SOC Analyst with **Level Effect**. 
+With a decade of diverse experience across IT help desk, healthcare investigations & patient care, and the supply chain industry, I have obtained a proven track record to solving company problems while providing excellent customer service and leveraging strong soft skills. Currently, I am pursuing a Bachelor's degree in Cybersecurity from **Western Governors University**, currently volunteering as a Community Jr. SOC Analyst while training to become a Tier 1 SOC Analyst with **Level Effect**, with plans to advance to a Tier 2 Analyst in the near future. 
 
 ## Tactical Credentials:
 I hold the following credentials that showcase my dedication and expertise, with accompanying projects that demonstrate practical experience relevant to each certification:
