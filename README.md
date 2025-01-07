@@ -19,6 +19,7 @@ I hold the following credentials that showcase my dedication and expertise, with
 - **CompTIA A+**
 - **SSCP (ISC2 Associate Member)**
 - **ITIL Foundation**
+- **Microsoft Certified: Azure Fundamentals**
 
 ## ⚔️Always on Mission⚔️:
 To stay up-to-date with the latest in cybersecurity, I follow Simply Cyber with Dr. Gerald Auger on Youtube. Additionally, I regularly explore other resources such as CyberWire, and Krebs on Security.
