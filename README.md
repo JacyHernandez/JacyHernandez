@@ -5,7 +5,7 @@
 <img src="https://github.com/user-attachments/assets/696eb9dd-4067-4a2e-914d-193618d0807c" alt="Cyber Defense SOC Analyst" style="width:40%; height:auto;">
 
 ## About Me:
-I'm a Security Network Operations Analyst with a passion and discipline for continuos learning. Experienced in modern SOC environments, I actively monitor, investigate, and respond to security incidents using tools like Microsoft Sentinel, SentinelOne, Cylance, and Meraki. I also support OT/ICS visibility and event triage with Claroty, and work with network management platforms like Auvik and N-Central. My journey in cybersecurity is always driven by curiosity and growth. I'm always expanding my skills by taking courses, documenting what I learn, and sharing projects that reflect real-world challenges and defensive strategies. Thanks for visiting!
+I'm a Security Network Operations Analyst with a passion and discipline for continuous learning. Experienced in modern SOC environments, I actively monitor, investigate, and respond to security incidents using tools like Microsoft Sentinel, SentinelOne, Cylance, and Meraki. I also support OT/ICS visibility and event triage with Claroty, and work with network management platforms like Auvik and N-Central. My journey in cybersecurity is always driven by curiosity and growth. I'm always expanding my skills by taking courses, documenting what I learn, and sharing projects that reflect real-world challenges and defensive strategies. Thanks for visiting!
 
 ## Tactical Credentials:
 I hold the following credentials that showcase my dedication and expertise, with accompanying projects that demonstrate practical experience relevant to each certification:
