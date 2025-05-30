@@ -5,7 +5,7 @@
 <img src="https://github.com/user-attachments/assets/696eb9dd-4067-4a2e-914d-193618d0807c" alt="Cyber Defense SOC Analyst" style="width:40%; height:auto;">
 
 ## About Me:
-With a decade of diverse experience across IT help desk, healthcare investigations & patient care, and the supply chain industry, I have obtained a proven track record to solving company problems while providing excellent customer service and leveraging strong soft skills. Currently, I am pursuing a Bachelor's degree in Cybersecurity from **Western Governors University**, while volunteering as a Community Jr. SOC Analyst and training to become a Tier 1 SOC Analyst with **Level Effect**, with plans to advance to a Tier 2 Analyst in the near future. 
+I'm a Security Network Operations Analyst with a passion and discipline for continuos learning. Experienced in modern SOC environments, I actively monitor, investigate, and respond to security incidents using tools like Microsoft Sentinel, SentinelOne, Cylance, and Meraki. I also support OT/ICS visibility and event triage with Claroty, and work with network management platforms like Auvik and N-Central. My journey in cybersecurity is always driven by curiosity and growth. I'm always expanding my skills by taking courses, documenting what I learn, and sharing projects that reflect real-world challenges and defensive strategies. Thanks for visiting!
 
 ## Tactical Credentials:
 I hold the following credentials that showcase my dedication and expertise, with accompanying projects that demonstrate practical experience relevant to each certification:
