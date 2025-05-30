@@ -23,6 +23,9 @@ I hold the following credentials that showcase my dedication and expertise, with
 - **CompTIA Pentest+**
 - **CompTIA CySA+**
 - **CompTIA Poject+**
+- **Claroty Implementation Engineer 401**
+- **Claroty Support Engineer 501**
+- **Claroty Cybersecurity Analyst 601**
 
 ## ⚔️Always on Mission⚔️:
 To stay up-to-date with the latest in cybersecurity, I follow Simply Cyber with Dr. Gerald Auger on Youtube. Additionally, I regularly explore other resources such as CyberWire, and Krebs on Security.
