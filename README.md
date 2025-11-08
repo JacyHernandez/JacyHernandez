@@ -21,7 +21,7 @@ Here are the foundations that support what I do day to day as an analyst.
 
 - **CompTIA Security+**
 [Honeypot Project](https://github.com/JacyHernandez/Cyber-Fly-Trap-Project)  
-
+- **Level Effect 𝗔𝗜𝗦𝗘𝗖-𝟭𝟬𝟬: 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗮𝗹 𝗔𝗜 𝗳𝗼𝗿 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗕𝗮𝗱𝗴𝗲
 - **CompTIA Network+**
 [Loopback_IPv4_Address_project](https://github.com/JacyHernandez/Loopback_Address)
 
