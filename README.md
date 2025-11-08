@@ -21,7 +21,6 @@ Here are the foundations that support what I do day to day as an analyst.
 
 - **CompTIA Security+**
 [Honeypot Project](https://github.com/JacyHernandez/Cyber-Fly-Trap-Project) ⚔️ 
-[Vulnerability Management with Nessus Project](https://github.com/JacyHernandez/Nessus-Security-Implementation)
 
 - **CompTIA Network+**
 [Loopback_IPv4_Address_project](https://github.com/JacyHernandez/Loopback_Address)
