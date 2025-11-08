@@ -34,8 +34,8 @@ Here are the foundations that support what I do day to day as an analyst.
   [Vulnerability Management with Nessus Project](https://github.com/JacyHernandez/Nessus-Security-Implementation)
 - **CompTIA Poject+**
 
-## ⚔️Always on Mission⚔️:
-To stay up-to-date with the latest in cybersecurity, I follow Simply Cyber with Dr. Gerald Auger on Youtube. Additionally, I regularly explore other resources such as CyberWire, and Krebs on Security.
+## Staying Current:
+I stay current on cybersecurity by regularly following industry news, threat reports, and practitioner content—especially Simply Cyber with Dr. Gerald Auger on YouTube—along with trusted sources like CyberWire and Krebs on Security
 
 ---
 
