@@ -16,7 +16,10 @@ With 10+ years of customer-facing experience, I’m able to translate complex te
 I’ve supported environments across financial services, defense industrial base, local government, critical infrastructure (such as water and emergency services), and education-related organizations—always with the same goal: reduce risk, protect people, and communicate clearly with both technical and non-technical stakeholders.
 
 ## Credentials:
-I hold a Bachelor’s degree in Cybersecurity and Information Assurance and maintain several industry certifications, including CompTIA Security+, Network+, CySA+, PenTest+, and Project+, as well as SSCP (ISC2) and Microsoft Azure Fundamentals (AZ-900). These reflect a broad foundation across core security, networking, cloud, and practical project work that supports what I do day to day as an analyst.
+Here are the foundations that support what I do day to day as an analyst.
+
+- **Bachelor’s in Cybersecurity and Information Assurance**
+
 - **CompTIA Security+**
 [Honeypot Project](https://github.com/JacyHernandez/Cyber-Fly-Trap-Project) ⚔️ 
 [Vulnerability Management with Nessus Project](https://github.com/JacyHernandez/Nessus-Security-Implementation)
@@ -31,9 +34,6 @@ I hold a Bachelor’s degree in Cybersecurity and Information Assurance and main
 - **CompTIA Pentest+**
 - **CompTIA CySA+**
 - **CompTIA Poject+**
-- **Claroty Implementation Engineer 401**
-- **Claroty Support Engineer 501**
-- **Claroty Cybersecurity Analyst 601**
 
 ## ⚔️Always on Mission⚔️:
 To stay up-to-date with the latest in cybersecurity, I follow Simply Cyber with Dr. Gerald Auger on Youtube. Additionally, I regularly explore other resources such as CyberWire, and Krebs on Security.
