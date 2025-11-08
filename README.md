@@ -20,7 +20,7 @@ Here are the foundations that support what I do day to day as an analyst.
 - **Bachelor’s in Cybersecurity and Information Assurance**
 
 - **CompTIA Security+**
-[Honeypot Project](https://github.com/JacyHernandez/Cyber-Fly-Trap-Project) ⚔️ 
+[Honeypot Project](https://github.com/JacyHernandez/Cyber-Fly-Trap-Project)  
 
 - **CompTIA Network+**
 [Loopback_IPv4_Address_project](https://github.com/JacyHernandez/Loopback_Address)
