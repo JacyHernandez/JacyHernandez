@@ -7,9 +7,11 @@
 ## About Me:
 I’m a Security Network Operations Center (SNOC) Analyst who helps organizations stay online, secure, and compliant. Day to day, I investigate suspicious activity, tune defenses, and turn noisy alerts into clear, actionable decisions for my clients.
 
-I work with enterprise firewalls, cloud security tools, and endpoint protection platforms (Palo Alto, Meraki, SonicWall, Microsoft Sentinel, CrowdStrike, SentinelOne, AWS GuardDuty, and others) to block malicious traffic, analyze phishing emails, and respond to threats before they become incidents. I also manage user access, keep Windows systems patched, and help clients plan for things like long-term log storage and network uptime so their business keeps running.
+I work with enterprise firewalls, cloud security tools, and endpoint protection platforms (like Palo Alto, Meraki, SonicWall, Microsoft Sentinel, CrowdStrike, SentinelOne, and AWS GuardDuty) to block malicious traffic, analyze phishing emails, and respond to threats before they become serious incidents. I also manage user access, keep Windows systems patched, and help clients plan for things like long-term log storage and network uptime so their business keeps running.
 
-Beyond the technical work, I build KQL runbooks, document repeatable playbooks, and train new analysts so investigations are faster, more consistent, and easier to understand. I’ve supported environments across financial services, defense industrial base, local government, critical infrastructure (like water and emergency services), and education-adjacent organizations—always with the same goal: reduce risk, protect people, and communicate clearly with both technical and non-technical stakeholders.
+With 10+ years of customer-facing experience, I’m able to translate complex technical issues into clear language tied to real business needs—so leaders understand the risk and the options. I build KQL runbooks, document repeatable playbooks, and train new analysts so investigations are faster, more consistent, and easier to follow.
+
+I’ve supported environments across financial services, defense industrial base, local government, critical infrastructure (such as water and emergency services), and education-related organizations—always with the same goal: reduce risk, protect people, and communicate clearly with both technical and non-technical stakeholders.
 
 ## Tactical Credentials:
 I hold the following credentials that showcase my dedication and expertise, with accompanying projects that demonstrate practical experience relevant to each certification:
