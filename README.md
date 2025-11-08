@@ -40,7 +40,7 @@ I stay current on cybersecurity by regularly following industry news, threat rep
 ---
 
 ## Connect with me:
-- Email: Jacyhernandez1226@gmail.com
+- Email: Jacy.Hernandez@outlook.com
 - LinkedIn: https://www.linkedin.com/in/jacyh587/
 
 
