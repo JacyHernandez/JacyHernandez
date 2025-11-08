@@ -1,4 +1,4 @@
-<h2 style="font-size: 18px;"><b>👋🏼Hello, my name is Jacy!</b></h2>
+<h2 style="font-size: 18px;"><b>Jacy Hernandez · SOC / SNOC Analyst · OT & Cloud Security - AI Security</b></h2>
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8adcf57b-a772-4d85-baf5-f957f4397432" />
 
