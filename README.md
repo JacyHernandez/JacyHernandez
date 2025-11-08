@@ -1,8 +1,7 @@
 <h2 style="font-size: 18px;"><b>👋🏼Hello, my name is Jacy!</b></h2>
 
-<h3 style="font-size: 14px;"><b>Your Wall is Only as Strong as The Defenders Behind It.</b></h3>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8adcf57b-a772-4d85-baf5-f957f4397432" />
 
-<img src="https://github.com/user-attachments/assets/696eb9dd-4067-4a2e-914d-193618d0807c" alt="Cyber Defense SOC Analyst" style="width:40%; height:auto;">
 
 ## 🧭About Me:
 I’m a Security Network Operations Center (SNOC) Analyst who helps organizations stay online, secure, and compliant. Day to day, I investigate suspicious activity, tune defenses, and turn noisy alerts into clear, actionable decisions for my clients.
