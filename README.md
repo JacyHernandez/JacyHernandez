@@ -30,7 +30,7 @@ Here are the foundations that support what I do day to day as an analyst.
 - **CompTIA A+**
 - **SSCP (ISC2 Associate Member)**
 - **ITIL Foundation**
-- **Microsoft Certified: Azure Fundamentals**
+- **AZ-900 Microsoft Azure**
 - **CompTIA Pentest+**
 - **CompTIA CySA+**
 - **CompTIA Poject+**
