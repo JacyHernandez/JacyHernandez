@@ -13,8 +13,8 @@ With 10+ years of customer-facing experience, I’m able to translate complex te
 
 I’ve supported environments across financial services, defense industrial base, local government, critical infrastructure (such as water and emergency services), and education-related organizations—always with the same goal: reduce risk, protect people, and communicate clearly with both technical and non-technical stakeholders.
 
-## Tactical Credentials:
-I hold the following credentials that showcase my dedication and expertise, with accompanying projects that demonstrate practical experience relevant to each certification:
+## Credentials:
+I hold a Bachelor’s degree in Cybersecurity and Information Assurance and maintain several industry certifications, including CompTIA Security+, Network+, CySA+, PenTest+, and Project+, as well as SSCP (ISC2) and Microsoft Azure Fundamentals (AZ-900). These reflect a broad foundation across core security, networking, cloud, and practical project work that supports what I do day to day as an analyst.
 - **CompTIA Security+**
 [Honeypot Project](https://github.com/JacyHernandez/Cyber-Fly-Trap-Project) ⚔️ 
 [Vulnerability Management with Nessus Project](https://github.com/JacyHernandez/Nessus-Security-Implementation)
