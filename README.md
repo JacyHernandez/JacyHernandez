@@ -32,6 +32,7 @@ Here are the foundations that support what I do day to day as an analyst.
 - **AZ-900 Microsoft Azure**
 - **CompTIA Pentest+**
 - **CompTIA CySA+**
+  [Vulnerability Management with Nessus Project](https://github.com/JacyHernandez/Nessus-Security-Implementation)
 - **CompTIA Poject+**
 
 ## ⚔️Always on Mission⚔️:
