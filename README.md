@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/696eb9dd-4067-4a2e-914d-193618d0807c" alt="Cyber Defense SOC Analyst" style="width:40%; height:auto;">
 
-## About Me:
+## 🧭About Me:
 I’m a Security Network Operations Center (SNOC) Analyst who helps organizations stay online, secure, and compliant. Day to day, I investigate suspicious activity, tune defenses, and turn noisy alerts into clear, actionable decisions for my clients.
 
 I work with enterprise firewalls, cloud security tools, and endpoint protection platforms (like Palo Alto, Meraki, SonicWall, Microsoft Sentinel, CrowdStrike, SentinelOne, and AWS GuardDuty) to block malicious traffic, analyze phishing emails, and respond to threats before they become serious incidents. I also manage user access, keep Windows systems patched, and help clients plan for things like long-term log storage and network uptime so their business keeps running.
@@ -15,7 +15,7 @@ With 10+ years of customer-facing experience, I’m able to translate complex te
 
 I’ve supported environments across financial services, defense industrial base, local government, critical infrastructure (such as water and emergency services), and education-related organizations—always with the same goal: reduce risk, protect people, and communicate clearly with both technical and non-technical stakeholders.
 
-## Credentials:
+## 🎓Credentials:
 Here are the foundations that support what I do day to day as an analyst.
 
 - **Bachelor’s in Cybersecurity and Information Assurance**
