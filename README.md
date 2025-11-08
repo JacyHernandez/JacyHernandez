@@ -4,7 +4,7 @@
 
 
 ## 🧭About Me:
-I’m a Security Network Operations Center (SNOC) Analyst who helps organizations stay online, secure, and compliant. Day to day, I investigate suspicious activity, tune defenses, and turn noisy alerts into clear, actionable decisions for my clients.
+I’m a Security Network Operations Center (SNOC) Analyst who helps organizations stay secure, and compliant. Day to day, I investigate suspicious activity, tune defenses, and turn alerts into clear, actionable decisions for my clients.
 
 I work with enterprise firewalls, cloud security tools, and endpoint protection platforms (like Palo Alto, Meraki, SonicWall, Microsoft Sentinel, CrowdStrike, SentinelOne, and AWS GuardDuty) to block malicious traffic, analyze phishing emails, and respond to threats before they become serious incidents. I also manage user access, keep Windows systems patched, and help clients plan for things like long-term log storage and network uptime so their business keeps running.
 
